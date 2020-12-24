@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How I got my dream job 👨🏻‍💻 | Genuine certification | 📲 3 Courses Giveaway](https://youtu.be/uD2aMIr6WVM)
 - [GetX State Management with Flutter | GetBuilder, GetX and Obx](https://youtu.be/-FAiH638BHo)
 - [Introduction to GetX | Flutter made easy](https://youtu.be/rI7bwmMOuXE)
 - [Flare animation with Flutter || RIVE app animation](https://youtu.be/4RHvFVVUWqw)
 - [BLoC Pattern with Flutter || State Management](https://youtu.be/jIoWkct6_EM)
-- [BLoC Pattern with Flutter || State Management (Part 2)](https://youtu.be/K6ETAfGZl4k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/CodeXDev)
