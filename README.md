@@ -5,7 +5,7 @@
 ## I'm a Husband, Developer, and YouTuber!!
 
 - 🌱 I’m currently learning a lot of things 🤣
-- 🥅 2020 Goals: More subscribers more views to CodeX
+- 🥅 2021 Goals: More subscribers more views to CodeX
 - ⚡ Fun fact: I love to sketch
 
 
