@@ -4,8 +4,8 @@
 
 ## I'm a Husband, Developer, and YouTuber!!
 
-- 🌱 I’m currently learning a lot of things 🤣
-- 🥅 2020 Goals: More subscribers more views to CodeX
+- 🌱 Expanding flutter knowledge
+- 🥅 2021 Goals: Consistent on youtube, try loads of project 
 - ⚡ Fun fact: I love to sketch
 
 
@@ -33,7 +33,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How I got my dream job 👨🏻‍💻 | Genuine certification | 📲 3 Courses Giveaway](https://youtu.be/uD2aMIr6WVM)
+- [Base Client | Create apps faster with Flutter - Part 1](https://youtu.be/9L0sbrzfPug)
+- [Flutter Explicit Animation Tutorial || Part-1 | mPin Series](https://youtu.be/YWO_BqFlAoM)
+- [NULL Safety in Flutter | Dart fundamental tutorial](https://youtu.be/N9EV4YuUVGk)
 - [GetX State Management with Flutter | GetBuilder, GetX and Obx](https://youtu.be/-FAiH638BHo)
 - [Introduction to GetX | Flutter made easy](https://youtu.be/rI7bwmMOuXE)
 - [Flare animation with Flutter || RIVE app animation](https://youtu.be/4RHvFVVUWqw)
