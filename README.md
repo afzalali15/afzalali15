@@ -47,7 +47,7 @@
 ---
 
 [website]: http://codexdev.net
-[twitter]: https://twitter.com/afzalali15
+[twitter]: https://twitter.com/afzalali_dev
 [youtube]: https://youtube.com/CodeXDev
 [instagram]: https://instagram.com/afzalali15
 [discord]: https://discord.com/invite/nWFnTqP
