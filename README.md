@@ -1,16 +1,8 @@
 ### Hi there, I'm Afzal 👋
 
-[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white)](https://discord.com/invite/nWFnTqP)
-
-## I'm a Husband, Developer, and YouTuber!!
-
-- 🌱 Expanding flutter knowledge
-- 🥅 2021 Goals: Consistent on youtube, try loads of project 
-- ⚡ Fun fact: I love to sketch
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=0100F7&center=false&width=435&lines=Software+Engineer+%7C+Mentor+%7C+YouTuber;Expertise+in+Mobile+Development+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Flutter+%7C+Android+%7C+iOS)](https://git.io/typing-svg)
 
 ### Connect with me:
-
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
