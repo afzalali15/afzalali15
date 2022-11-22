@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=0100F7&center=false&width=435&lines=Software+Engineer+%7C+Mentor+%7C+YouTuber;Expertise+in+Mobile+Development+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Flutter+%7C+Android+%7C+iOS)](https://git.io/typing-svg)
 
 ### Connect with me:
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,7 +41,7 @@
 
 [website]: http://codexdev.net
 [twitter]: https://twitter.com/afzalali_dev
-[youtube]: https://youtube.com/CodeXDev
+[youtube]: https://youtube.com/@CodeXDev
 [instagram]: https://instagram.com/afzalali15
 [discord]: https://discord.com/invite/nWFnTqP
 [linkedin]: https://linkedin.com/in/afzalali15
