@@ -26,16 +26,16 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Base Client | Create apps faster with Flutter - Part 1](https://youtu.be/9L0sbrzfPug)
-- [Flutter Explicit Animation Tutorial || Part-1 | mPin Series](https://youtu.be/YWO_BqFlAoM)
+- [Don’t MISS these Features | Flutter Production Tips](https://youtu.be/q6QyNu8h7TE)
+- [Flutter in 2024: Cross Platform Tool You Must Learn!](https://youtu.be/CZr3pKM44wk)
 - [NULL Safety in Flutter | Dart fundamental tutorial](https://youtu.be/N9EV4YuUVGk)
 - [GetX State Management with Flutter | GetBuilder, GetX and Obx](https://youtu.be/-FAiH638BHo)
 - [Introduction to GetX | Flutter made easy](https://youtu.be/rI7bwmMOuXE)
-- [Flare animation with Flutter || RIVE app animation](https://youtu.be/4RHvFVVUWqw)
+- [Learn to use Isolates in Flutter | Simplified](https://youtu.be/WFfaaLwLobA)
 - [BLoC Pattern with Flutter || State Management](https://youtu.be/jIoWkct6_EM)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/CodeXDev)
+➡️ [more videos...](https://youtube.com/@CodeXDev)
 
 ---
 
